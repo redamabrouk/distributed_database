@@ -1,0 +1,19 @@
+CREATE ROLE
+GRANT To ROLE
+CREATE USER
+GRANT ROLE TO USER
+ACTIVATE ROLES
+==================
+Creating Views
+SECURING Views
+Updatable Views
+	Update
+	Insert
+	Check Option
+	ref : https://www.mysqltutorial.org/mysql-views-tutorial.aspx
+==================
+Materialized View
+	1- Using triggers 
+	2- Using stored procedures 
+	3- Using MySQL scheduled events 
+	ref : http://www.coding-dude.com/wp/databases/creating-mysql-materialized-views/
